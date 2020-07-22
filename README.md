@@ -9,6 +9,7 @@ Il est extrêmement complexe de se procurer des informations utiles sur ISETL en
 
 Ce repository a été créé uniquement pour garder une trace de ce langage. 
 
+Source : http://www.math.bas.bg/softeng/bantchev/place/setl/isetl-for-mathematics.pdf
 ## Son installation 
 <a href="https://keskec.fr/sciences/informatique/robin/2690/"> ISETL 3.0 sur Windows 10 </a>
 
