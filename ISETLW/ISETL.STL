@@ -1,0 +1,4 @@
+!echo off
+!memory 30000000
+!include donplot.stl
+
