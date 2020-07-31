@@ -17,4 +17,4 @@ Source : http://www.math.bas.bg/softeng/bantchev/place/setl/isetl-for-mathematic
 <a href="https://keskec.fr/sciences/informatique/robin/3838/"> ISETL - Utilisation basique de ISETLW </a>
 
 ## Quelques tutoriels sur ISETL 
-<a href="https://keskec.fr/tag/isetl/"> Tutoriel sur ISETL - KeskeC </a>
+<a href="https://keskec.fr/tag/isetl/"> Tutoriels sur ISETL - KeskeC </a>
