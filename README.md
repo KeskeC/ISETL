@@ -10,11 +10,6 @@ Il est extrêmement complexe de se procurer des informations utiles sur ISETL en
 Ce repository a été créé uniquement pour garder une trace de ce langage. 
 
 Source : http://www.math.bas.bg/softeng/bantchev/place/setl/isetl-for-mathematics.pdf
-## Son installation 
-<a href="https://keskec.fr/sciences/informatique/robin/2690/"> ISETL 3.0 sur Windows 10 </a>
-
-## Son utilisation 
-<a href="https://keskec.fr/sciences/informatique/robin/3838/"> ISETL - Utilisation basique de ISETLW </a>
 
 ## Quelques tutoriels sur ISETL 
-<a href="https://keskec.fr/tag/isetl/"> Tutoriels sur ISETL - KeskeC </a>
+<a href="https://devmath.fr/informatique/isetl-langage-de-programmation/"> Tutoriels sur ISETL - DevMath </a>
